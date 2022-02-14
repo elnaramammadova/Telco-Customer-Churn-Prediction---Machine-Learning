@@ -1,6 +1,6 @@
 Telco Customer Churn Prediction
 A comparison study of Logistic Regression and Random Forest
---------------------------------------------------oo----------------------------------------
+---------------------------------oo------------------------------------------
 INM-431 Machine Learning Coursework 
 Elnara Mammadova - 210025788
 
@@ -56,13 +56,15 @@ and all necessary data is contained in this folder.
     input: "finalModels.mat"
     output: none
     
-    Matlab Version: 
------------------------------------------------------------------------------------------------------
+Matlab Version: 
+-----------------------------------------------------------------
 MATLAB Version: 9.10.0.1739362 (R2021a) Update 5
 MATLAB License Number: 902060
 Operating System: macOS  Version: 11.4 Build: 20F71 
-Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
------------------------------------------------------------------------------------------------------
+Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java
+HotSpot(TM) 64-Bit Server VM mixed mode
+
+-----------------------------------------------------------------
 MATLAB                                                Version 9.10        (R2021a)
 Bioinformatics Toolbox                                Version 4.15.1      (R2021a)
 Curve Fitting Toolbox                                 Version 3.5.13      (R2021a)
