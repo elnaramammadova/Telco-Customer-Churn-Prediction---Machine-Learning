@@ -1,17 +1,20 @@
 Telco Customer Churn Prediction
 A comparison study of Logistic Regression and Random Forest
 ---------------------------------oo------------------------------------------
+
 INM-431 Machine Learning Coursework 
 Elnara Mammadova - 210025788
 
 
 =========================== HOW TO TEST =====================================
+
 Please run matlab livescript "testing.mlx" to test the final model.
 All the necessary data has been loaded. 
 The codes were run in university computers without a glitch. 
 
 
 ======================= WHAT IS INCLUDED IN THE FOLDER ======================
+
 All the preprocessing, modelling and testing steps are completely reproducible 
 and all necessary data is contained in this folder. 
 
